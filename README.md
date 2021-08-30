@@ -1,4 +1,4 @@
 #News App
 Intro Screen               
 :--------------------------------------------------:
-![](gif/untitled-min.gif 100)     
+<img src="gif/untitled-min.gif" width="100">
